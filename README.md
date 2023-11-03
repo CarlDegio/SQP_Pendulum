@@ -1,4 +1,5 @@
 # SQP算法在pendulum的尝试
+
 sqp_test.ipynb 测试了一个简单的情形，SQP可在这种情况下收敛
 sqp_test_figure.py 同上，将图像绘制到外面
 ---
